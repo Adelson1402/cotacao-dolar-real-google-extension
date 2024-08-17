@@ -1,0 +1,12 @@
+body{
+    width: 250px;
+}
+
+.moneyInpt{
+    width: 60px;
+    margin: 15px;
+}
+
+#result{
+    width: 100px;
+}
